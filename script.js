@@ -1,0 +1,9 @@
+$("#fak").click(function(){
+    $("#fake").hide();
+    $("#fak").hide();
+    $(".wowowow").toggle();
+});
+$(".ohnoes").click(function(){
+    $(".wowowow").hide();
+    $(".escaped").toggle();
+});
