@@ -1,0 +1,43 @@
+h1{
+    text-align:center;
+}
+.fiddlesticks{
+    background-color:#FF7D00;
+}
+#fake{
+    text-align:center;
+}
+#fak{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height:300px;
+
+}
+.wowowow{
+    display:none;
+    background-color:#710000;
+}
+.ohnoes{
+    text-align:center;
+    color:white;
+}
+#owo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height:300px;
+}
+.escaped{
+    display:none;
+    text-align:center;
+}
+#pewds{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height:300px;
+}
